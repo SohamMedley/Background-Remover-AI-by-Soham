@@ -1,0 +1,9 @@
+This directory will contain:
+- sample-1-before.jpg (sample original image)
+- sample-1-after.png (sample processed image with transparent background)
+- noise.png (subtle noise texture for the background)
+
+These files will be created at runtime:
+- Uploaded images in /static/uploads/
+- Processed images in /static/processed/
+
